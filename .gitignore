@@ -1,0 +1,8 @@
+.idea/
+*.iml
+# Project exclude paths
+/prime-spigot/target/
+/prime-velocity/target/
+# Project exclude paths
+/soda-spigot/target/
+/soda-velocity/target/
